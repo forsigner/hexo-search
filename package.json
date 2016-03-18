@@ -1,0 +1,30 @@
+{
+  "name": "hexo-pages",
+  "version": "1.0.0",
+  "description": "Generate search json",
+  "main": "index",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/forsigner/hexo-search.git"
+  },
+  "keywords": [
+    "hexo",
+    "pages",
+    "hexp plugin"
+  ],
+  "author": "forsigner",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/forsigner/hexo-pages/issues"
+  },
+  "homepage": "https://github.com/forsigner/hexo-pages#readme",
+  "devDependencies": {
+    "babel": "^6.5.2",
+    "babel-eslint": "^5.0.0"
+  },
+  "dependencies": {
+  }
+}
