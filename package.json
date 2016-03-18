@@ -26,5 +26,6 @@
     "babel-eslint": "^5.0.0"
   },
   "dependencies": {
+    "utils-merge": "^1.0.0"
   }
 }
