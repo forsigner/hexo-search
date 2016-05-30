@@ -17,4 +17,5 @@ You can configure this plugin in your root `_config.yml`.
 search:
   path: search.json
   source: all # other values: posts, pages
+  trim_html: false
 ```
