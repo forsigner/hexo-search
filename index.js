@@ -5,7 +5,8 @@ var pathFn = require('path');
 
 var config = hexo.config.search = merge({
   path: 'search.json',
-  field: 'post'
+  source: 'all',
+  trim_html: false
 }, hexo.config.search);
 
 // Set default search path
