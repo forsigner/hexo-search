@@ -1,6 +1,6 @@
 {
   "name": "hexo-search",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Generate search json",
   "main": "index",
   "scripts": {
